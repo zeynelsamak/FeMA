@@ -1,5 +1,5 @@
 # FeMA: Feature Matching Auto-encoder for Predicting Ischaemic Stroke Evolution and Treatment Outcome [[Paper]](https://www.sciencedirect.com/science/article/pii/S0895611122000623?via%3Dihub)
-by [Zeynel Abidin Samak]() [Philip Clatworthy](https://scholar.google.co.uk/citations?user=B6lFOAQAAAAJ&hl=en) and [Majid Mirmehdi](https://scholar.google.com/citations?user=NsW3yAwAAAAJ&hl=en)
+by [Zeynel Abidin Samak](https://scholar.google.co.uk/citations?user=QOrEQ3AAAAAJ&hl=en), [Philip Clatworthy](https://scholar.google.co.uk/citations?user=B6lFOAQAAAAJ&hl=en) and [Majid Mirmehdi](https://scholar.google.com/citations?user=NsW3yAwAAAAJ&hl=en)
 
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0895611122000623-gr1_lrg.jpg)
